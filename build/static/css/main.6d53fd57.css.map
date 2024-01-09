@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6d53fd57.css","mappings":"uEAEA,KAEE,0BAA8B,CAD9B,QAEF","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');\n\nbody {\n  margin: 0;\n  font-family: 'Exo', sans-serif;\n}\n"],"names":[],"sourceRoot":""}
